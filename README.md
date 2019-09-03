@@ -2,4 +2,4 @@
 
 Vanilla Mcts
 
-Version supporting multi process computations
+Multi process implementation
